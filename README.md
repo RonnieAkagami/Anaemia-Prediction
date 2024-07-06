@@ -6,8 +6,9 @@ This project aims to predict whether a person has anemia based on image pixels o
 ## Installation
 To run this project, you'll need to have Python installed along with several libraries. You can install the required libraries using pip:
 
-```bash
+```python
 pip install numpy pandas scikit-learn
+```
 
 ```python 
 
